@@ -11,3 +11,7 @@ function chkNumber(num){
 }
 
 console.log(chkNumber(13))
+
+const prime = () => {
+    return 'Prime number'
+}
